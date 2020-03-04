@@ -1,1 +1,1 @@
-Spring Boot With JSF Sample
+Spring Boot With JSF Sample :tada:
